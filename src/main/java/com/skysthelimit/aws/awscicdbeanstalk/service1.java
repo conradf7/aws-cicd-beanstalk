@@ -1,4 +1,4 @@
-package com.skysthelimit.aws;
+package com.skysthelimit.aws.awscicdbeanstalk;
 
 import java.util.Date;
 import java.text.SimpleDateFormat;
