@@ -18,10 +18,18 @@ public class service1 {
         String t  = dateFormat.format(new Date());
 
         String msg =    
+            "<body bgcolor=\"#FFA07A\">" + 
+            "<img src=\"https://cdn-images-1.medium.com/max/1200/1*jMQ9lkY5SBnbcOlJB4aizg.png\" " +
+            "alt=\"AWS Codebuild\" width=\"240\" height=\"100\">" +   
             "<img src=\"https://www.cloudaxis.com/wp-content/uploads/2018/09/codebuild.png\" " +
-            "alt=\"AWS Codebuild\" width=\"120\" height=\"100\">" +       
+            "alt=\"AWS Codebuild\" width=\"120\" height=\"100\">" +               
+            "<img src=\"https://cdn-images-1.medium.com/max/1600/1*6B-6_az43jpZIalwbsuoQw.png\" " +
+            "alt=\"Elastic Beanstalk\" width=\"110\" height=\"100\">" +   
+            "<img src=\"https://www.lucidtechsystems.com/wp-content/uploads/2017/01/apache-tomcate-web-server-online-training.jpg\" " +
+            "alt=\"Apache Tomcat\" width=\"100\" height=\"100\">" +     
+            "<br>" +            
             "<font size=\"7\">" +
-            "***** INTEGRATION ... Added feature 4  if approved -> to PROD ****  CodePipeline with CI/CD for Tomcat Java App deployed via Elastic Beanstalk" + 
+            "***** INTEGRATION ... Added feature 6.  If approved, promote -> to PROD ****  CodePipeline with CI/CD for Tomcat Java App deployed via Elastic Beanstalk" + 
             "</font>" +
             "<br>" +
             "<font size=\"6\">" +
