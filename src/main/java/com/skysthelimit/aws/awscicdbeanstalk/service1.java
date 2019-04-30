@@ -30,7 +30,7 @@ public class service1 {
             "</font>" +
             "<br>" +
             "<font size=\"6\">" +
-            "The current UTC time is: " + "<b>" + t + "</b>" + 
+            "The current UTC time is:  " + "<b>" + t + "</b>" + 
             "</font>" ;
 
         return msg;
