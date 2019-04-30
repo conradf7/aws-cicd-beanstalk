@@ -19,7 +19,7 @@ public class service1 {
 
         String msg =         
             "<font size=\"7\">" +
-            "***** INTEGRATION  ****  CodePipeline with CI/CD for Tomcat Java App deployed via Elastic Beanstalk" + 
+            "***** INTEGRATION ... IF Approved -> to PROD ****  CodePipeline with CI/CD for Tomcat Java App deployed via Elastic Beanstalk" + 
             "</font>" +
             "<br>" +
             "<font size=\"6\">" +
