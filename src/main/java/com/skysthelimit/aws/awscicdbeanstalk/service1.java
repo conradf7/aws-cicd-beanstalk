@@ -21,7 +21,7 @@ public class service1 {
             "<img src=\"https://www.cloudaxis.com/wp-content/uploads/2018/09/codebuild.png\" " +
             "alt=\"AWS Codebuild\" width=\"120\" height=\"100\">" +       
             "<font size=\"7\">" +
-            "***** INTEGRATION ... if approved -> to PROD ****  CodePipeline with CI/CD for Tomcat Java App deployed via Elastic Beanstalk" + 
+            "***** INTEGRATION ... Added feature 4  if approved -> to PROD ****  CodePipeline with CI/CD for Tomcat Java App deployed via Elastic Beanstalk" + 
             "</font>" +
             "<br>" +
             "<font size=\"6\">" +
