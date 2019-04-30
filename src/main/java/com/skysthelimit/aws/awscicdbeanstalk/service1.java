@@ -17,7 +17,14 @@ public class service1 {
         SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd  HH:mm:ss");
         String t  = dateFormat.format(new Date());
 
-        String msg =         
+        String msg = 
+            "<img src=\"https://www.cloudaxis.com/wp-content/uploads/2018/09/codebuild.png\" " +
+            "alt=\"AWS Codebuild\" width=\"120\" height=\"100\">" +   
+            "<img src=\"https://cdn-images-1.medium.com/max/1600/1*6B-6_az43jpZIalwbsuoQw.png\" " +
+            "alt=\"Elastic Beanstalk\" width=\"110\" height=\"100\">" +   
+            "<img src=\"https://www.lucidtechsystems.com/wp-content/uploads/2017/01/apache-tomcate-web-server-online-training.jpg\" " +
+            "alt=\"Apache Tomcat\" width=\"100\" height=\"100\">" +     
+            "<br>" +              
             "<font size=\"7\">" +
             "***** PRODUCTION ****  CodePipeline with CI/CD for Tomcat Java App deployed via Elastic Beanstalk" + 
             "</font>" +
