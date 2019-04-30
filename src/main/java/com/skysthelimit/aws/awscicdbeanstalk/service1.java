@@ -27,7 +27,7 @@ public class service1 {
             "alt=\"Apache Tomcat\" width=\"100\" height=\"100\">" +     
             "<br>" +              
             "<font size=\"7\">" +
-            "***** PRODUCTION ****  CodePipeline with CI/CD for Tomcat Java App deployed via Elastic Beanstalk" + 
+            "***** PRODUCTION -- added feature 3 ****  CodePipeline with CI/CD for Tomcat Java App deployed via Elastic Beanstalk" + 
             "</font>" +
             "<br>" +
             "<font size=\"6\">" +
