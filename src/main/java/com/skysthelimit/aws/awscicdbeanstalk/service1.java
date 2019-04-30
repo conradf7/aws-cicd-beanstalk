@@ -18,6 +18,7 @@ public class service1 {
         String t  = dateFormat.format(new Date());
 
         String msg = 
+            "<body bgcolor=\"#E6E6FA\">" +
             "<img src=\"https://www.cloudaxis.com/wp-content/uploads/2018/09/codebuild.png\" " +
             "alt=\"AWS Codebuild\" width=\"120\" height=\"100\">" +   
             "<img src=\"https://cdn-images-1.medium.com/max/1600/1*6B-6_az43jpZIalwbsuoQw.png\" " +
