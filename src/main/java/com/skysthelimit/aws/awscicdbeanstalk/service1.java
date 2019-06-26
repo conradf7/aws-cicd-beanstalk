@@ -24,7 +24,7 @@ public class service1 {
                 + "alt=\"Elastic Beanstalk\" width=\"110\" height=\"100\">"
                 + "<img src=\"https://noticiasseguridad.com/nsnews_u/2019/04/tomcat.png\" "
                 + "alt=\"Apache Tomcat\" width=\"190\" height=\"100\">" + "<br>" + "<font size=\"7\">"
-                + "***** PRODUCTION -- added feature 3 ****  CodePipeline with CI/CD for Tomcat Java App deployed via Elastic Beanstalk"
+                + "***** PRODUCTION -- merged in feature 4 ****  CodePipeline with CI/CD for Tomcat Java App deployed via Elastic Beanstalk"
                 + "</font>" + "<br>" + "<font size=\"6\">" + "The current UTC time is:  " + "<b>" + t + "</b>"
                 + "</font>";
 
